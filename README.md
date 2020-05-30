@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Code Champions!
+Maria here, just learning GitHub for the firs time.
